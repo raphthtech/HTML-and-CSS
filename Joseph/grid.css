@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: grid;
+    grid: 20px;
+    grid-template-columns: 25% 25%;
+}
+
+.boxes {
+    width: 200px;
+    height: 200px;
+}

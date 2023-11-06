@@ -1,0 +1,77 @@
+You can run JS in a web browser devtools console. Y or N
+
+Which of the following are valid comment in JS
+\ comment 1
+
+\\ comment 2
+
+##
+## comment 3
+##
+
+/*
+* comment 4
+*/
+
+3. Which of the these are valid data types in JS. Select all that apply
+a. string
+b. number
+c. number
+d. null
+
+4. Which of the following is the logical AND operator in JS?
+a. &
+b. &&
+c. ||
+d. |\
+
+5. Which of the following is the assignment operator in JS?
+a. =
+b. ==
+c. ===
+
+6. How many times will the code print the word 'Hello'
+
+  for(var i = 0; i <= 5; i++) {
+    console.log("Hello");
+  }
+a. 4
+b. 5
+c. 6
+
+7. What will print out when the following code runs?
+
+  var i = 3;
+  var j = 5;
+
+  if(i == 3 && j < 5) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+a. Hello
+b. Goodbye
+c. Nothing
+
+8. What will print out when the following code runs?
+
+  var i = 7;
+  var j = 2;
+
+  if(i < 7 || j < 5) {
+    console.log("Hello");
+  } else {
+    console.log("Goodbye");
+  }
+  a. Hello
+b. Goodbye
+c. Nothing
+
+9. The result of !false is:
+a. true
+b. undefined
+
+10. What does the operator || represent in JS?
+a. the logical AND operator
+b. the logical OR operator
+c. the logical NOT operator
